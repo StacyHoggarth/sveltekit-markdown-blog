@@ -11,4 +11,6 @@ published: true
 
 # First Post
 This is an addition by Stacy
-* and one more 
+
+* bulleted list
+* and one more line
